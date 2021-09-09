@@ -3,7 +3,7 @@ Thomas Backers
 
 *I have not failed. I've just found 10,000 ways that won't work.*
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://avatars.githubusercontent.com/u/64485899?v=4 "Logo Title Text 1")
 
 Me, in one sentence
 -------------------
@@ -29,6 +29,7 @@ Hobbies
     * Electronic stuff
 * Drawing
 * Coding for shure
+* Video games
 
 You can always count on me when...
 ----------------------------------
