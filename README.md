@@ -40,7 +40,7 @@ you have a funny joke to tell,
 
 you have a not funny joke to tell,
 
-you're interesting about coding or tech stuff
+you're interested in coding or tech stuff
 
 A funny story
 -------------
