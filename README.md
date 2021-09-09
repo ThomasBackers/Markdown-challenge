@@ -49,4 +49,4 @@ To me, "never ever again" barely always means "in the near future"
 
 just put me in front of potato chips and you'll understand x)
 
-[Previous](https://www.google.com) | THOMAS BACKERS | [Next](https://www.google.com)
+[Previous](https://github.com/StephaneGenet/AboutMe/blob/main/README.md) | THOMAS BACKERS | [Next](https://github.com/Tiffany-D/markdown-challenge/blob/main/README.md)
